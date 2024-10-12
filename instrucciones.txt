@@ -1,0 +1,17 @@
+clonar repo
+ejecutar comando : npm i
+para instalar node_modules con sus dependencias
+ejecutar comando : nmp run dev
+para iniciar el servidor frontend
+
+
+--------------
+
+
+comandos utiles:
+
+npm i primereact primeicons primeflex
+
+npm i @reduxjs/toolkit react-redux
+
+npm i react-router-dom

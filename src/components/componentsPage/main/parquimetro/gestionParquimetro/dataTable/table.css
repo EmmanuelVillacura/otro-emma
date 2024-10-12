@@ -1,0 +1,15 @@
+@media (max-width: 426px) {
+    .p-datatable-thead > tr > th {
+        font-size: .775rem;
+        padding: 0.5rem 0.5rem;
+        
+    }
+
+    .p-datatable-thead tr th div{
+        display: flex;
+        text-align: center;
+        justify-content: center;
+    }
+
+   
+}
